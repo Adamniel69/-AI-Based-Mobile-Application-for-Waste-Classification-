@@ -19,17 +19,11 @@ The proposed system is intended for:
 
 ## 4. Supporting Evidence
 
-This section will be supported by credible research papers or official Malaysian sources related to waste management, recycling behaviour, waste classification, or recycling facility accessibility.
-
-For each source, record the following information:
-
-- **Source title:** [Insert the title of the research paper or official report]
-- **Author or organisation:** [Insert author or organisation]
-- **Publication year:** [Insert year]
-- **Relevant finding:** [Summarise a finding that supports the problem described above]
-- **Source link:** [Insert the working URL]
-
-The source should support the problem being discussed. Do not include statistics or findings unless they can be verified from the original source.
+- **Source title:** AI-Powered Waste Classification Using Convolutional Neural Networks (CNNs)
+- **Author or organisation:** Chan Jia Yi and Chong Fong Kim
+- **Publication year:** 2024
+- **Relevant finding:** The study reports that around 72.19% of residents surveyed were unsure about waste categorisation and proper waste disposal. It explores CNN-based waste classification as a way to address this issue. This supports the need for a system that helps users identify waste correctly.
+- **Source link:** https://doi.org/10.14569/IJACSA.2024.0151009
 
 ## 5. Proposed Solution
 
