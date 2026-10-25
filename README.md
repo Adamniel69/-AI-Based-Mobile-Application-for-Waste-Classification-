@@ -4,9 +4,9 @@ An AI-based mobile application designed to help users identify waste items and f
 
 ## Documentation
 
-- [Problem Statement](docs/problem-statement.md)
+- [Problem Statement](docs/problem%20statement.md)
 - [Requirements](docs/requirements.md)
-- [User Stories](docs/user-stories.md)
+- [User Stories](docs/user%20stories.md)
 
 ## Project Status
 
